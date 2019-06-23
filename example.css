@@ -83,3 +83,9 @@
     font-family: 'Kanit';
     text-align: center;
 }
+
+footer {
+    font-family: 'Kanit';
+    background-color: #fff;
+    text-align: justify;
+}
