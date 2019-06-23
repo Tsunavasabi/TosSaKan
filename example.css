@@ -73,5 +73,13 @@
 .content {
     color: black;
     font-family: 'Kanit';
+    text-align: left;
+}
+
+.bg {
+    background-image: url('./assets/bg.jpg');
+    background-size: cover;
+    color: #000000;
+    font-family: 'Kanit';
     text-align: center;
 }
