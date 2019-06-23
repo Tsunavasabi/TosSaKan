@@ -1,0 +1,238 @@
+@import url('https://fonts.googleapis.com/css?family=Srisakdi:400,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Kanit&display=swap');
+
+@media (min-width: 300px) {
+    .headcover {
+        background-image: url("./assets/cover1-1.jpg");
+        min-height: 15rem;
+        height: auto;
+        background-size: cover;
+        border-radius: 0;
+        width: 100%;
+        color: black;
+        font-family: 'Srisakdi', cursive;
+        left: auto;
+        right: auto;
+    }
+
+    .headtext {
+        color: #ffffff;
+        margin-top: 12rem;
+        text-align: center;
+        font-size: 15px;
+        padding-bottom: 3rem;
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+
+    .cardbg1 {
+        background-image: url("./assets/topic1.jpg");
+        background-size: cover;
+        min-height: 20rem;
+        width: 100%;
+        color: #ffffff;
+        border-radius: 10px;
+        box-shadow: #000 0px 4px 8px 0px;
+        margin-bottom: 15px;
+        transition: 1s;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    
+    .cardbg2 {
+        background-image: url("./assets/topic2.jpg");
+        background-size: cover;
+        min-height: 20rem;
+        width: 100%;
+        color: #ffffff;
+        border-radius: 10px;
+        box-shadow: #000 0px 4px 8px 0px;
+        margin-bottom: 15px;
+        transition: 1s;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    
+    .cardbg3 {
+        background-image: url("./assets/topic3.jpg");
+        background-size: cover;
+        min-height: 20rem;
+        width: 100%;
+        color: #ffffff;
+        border-radius: 10px;
+        box-shadow: #000 0px 4px 8px 0px;
+        margin-bottom: 15px;
+        transition: 1s;
+        padding-left: 10px;
+        padding-right: 10px;
+    } 
+}
+
+@media (min-width: 700px) {
+    .headcover {
+        background-image: url("./assets/cover1-2.jpg");
+        min-height: 15rem;
+        height: auto;
+        background-size: cover;
+        border-radius: 0;
+        width: 100%;
+        color: black;
+        font-family: 'Srisakdi', cursive;
+        left: auto;
+        right: auto;
+    }
+
+    .headtext {
+        color: #ffffff;
+        margin-top: 12rem;
+        text-align: center;
+        font-size: 15px;
+        padding-bottom: 3rem;
+    }
+
+    .cardbg1 {
+        background-image: url("./assets/topic1.jpg");
+        background-size: cover;
+        min-height: 20rem;
+        width: 100%;
+        color: #ffffff;
+        border-radius: 10px;
+        box-shadow: #000 0px 4px 8px 0px;
+        margin-bottom: 15px;
+        transition: 1s;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-bottom: 20px;
+    }
+    
+    .cardbg2 {
+        background-image: url("./assets/topic2.jpg");
+        background-size: cover;
+        min-height: 20rem;
+        width: 100%;
+        color: #ffffff;
+        border-radius: 10px;
+        box-shadow: #000 0px 4px 8px 0px;
+        margin-bottom: 15px;
+        transition: 1s;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-bottom: 45px;
+    }
+    
+    .cardbg3 {
+        background-image: url("./assets/topic3.jpg");
+        background-size: cover;
+        min-height: 20rem;
+        width: 100%;
+        color: #ffffff;
+        border-radius: 10px;
+        box-shadow: #000 0px 4px 8px 0px;
+        margin-bottom: 15px;
+        transition: 1s;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-bottom: 20px;
+    }
+}
+
+@media (min-width: 991.98px) {
+    .headcover {
+        background-image: url("./assets/cover1.jpg");
+        min-height: 30rem;
+        height: auto;
+        background-size: cover;
+        border-radius: 0;
+        width: 100%;
+        color: black;
+        font-family: 'Srisakdi', cursive;
+    }
+    
+    .headtext {
+        color: #ffffff;
+        margin-top: 15rem;
+        text-align: center;
+    }
+
+    .cardbg1 {
+        background-image: url("./assets/topic1.jpg");
+        background-size: cover;
+        min-height: 20rem;
+        width: 100%;
+        color: #ffffff;
+        border-radius: 10px;
+        box-shadow: #000 0px 4px 8px 0px;
+        margin-bottom: 15px;
+        transition: 1s;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    
+    .cardbg2 {
+        background-image: url("./assets/topic2.jpg");
+        background-size: cover;
+        min-height: 20rem;
+        width: 100%;
+        color: #ffffff;
+        border-radius: 10px;
+        box-shadow: #000 0px 4px 8px 0px;
+        margin-bottom: 15px;
+        transition: 1s;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    
+    .cardbg3 {
+        background-image: url("./assets/topic3.jpg");
+        background-size: cover;
+        min-height: 20rem;
+        width: 100%;
+        color: #ffffff;
+        border-radius: 10px;
+        box-shadow: #000 0px 4px 8px 0px;
+        margin-bottom: 15px;
+        transition: 1s;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
+
+.bg {
+    background-image: url('./assets/bg.jpg');
+    background-size: cover;
+    color: #000000;
+    font-family: 'Kanit';
+    text-align: center;
+}
+
+.navbar-nav {
+    font-family: 'Kanit';
+}
+
+footer {
+    font-family: 'Kanit';
+    background-color: #fff;
+    text-align: justify;
+}
+
+.carousel-inner{
+    width:100%;
+    max-height: 600px !important;
+    border-radius: 10px;
+    box-shadow: #000 0px 8px 16px 0px;
+  }
+
+.content {
+    color: black;
+    font-family: 'Kanit';
+    text-align: center;
+}
+
+hr {
+    width: 50%;
+}
+
+.background {
+    padding-top: 2rem;
+}
+

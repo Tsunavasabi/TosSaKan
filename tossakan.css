@@ -1,0 +1,236 @@
+@import url('https://fonts.googleapis.com/css?family=Srisakdi:400,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Kanit&display=swap');
+
+@media (min-width: 300px) {
+    .headcover {
+        background-image: url("./assets/cover2-1.jpg");
+        min-height: 15rem;
+        height: auto;
+        background-size: cover;
+        border-radius: 0;
+        width: 100%;
+        color: black;
+        font-family: 'Srisakdi', cursive;
+        left: auto;
+        right: auto;
+    }
+
+    .headtext {
+        color: #ffffff;
+        margin-top: 12rem;
+        text-align: center;
+        font-size: 15px;
+        padding-bottom: 3rem;
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+
+    .content2 {
+        margin-top: 30px;
+        background-image: url('./assets/content2-1.jpg');
+        background-size: cover;
+        min-height: 40rem;
+        padding-top: 80%;
+        padding-left: 5%;
+        padding-right: 5%;
+        text-align: left;
+        color: #ffffff;
+    }
+
+    .card1 {
+        background-image: url('./assets/content1.jpg');
+        background-size: cover;
+        min-height: 25rem;
+        padding-top: 90%;
+        text-align: center;
+        color: #ffffff;
+    }
+    
+    .card2 {
+        background-image: url('./assets/content3-1.jpg');
+        background-size: cover;
+        padding-top: 5%;
+        min-height: 25rem;
+        color: #ffffff;
+        text-align: left;
+    }
+    
+    .card3 {
+        background-image: url('./assets/content4.jpg');
+        background-size: cover;
+        min-height: 25rem;
+    }
+
+    h1, h4 {
+        text-align: center;
+    }
+
+    h3 {
+        padding-top: 30px;
+    }
+}
+
+@media (min-width: 700px) {
+    .headcover {
+        background-image: url("./assets/cover2.jpg");
+        min-height: 15rem;
+        height: auto;
+        background-size: cover;
+        border-radius: 0;
+        width: 100%;
+        color: black;
+        font-family: 'Srisakdi', cursive;
+        left: auto;
+        right: auto;
+    }
+
+    .headtext {
+        color: #ffffff;
+        margin-top: 12rem;
+        text-align: center;
+        font-size: 15px;
+        padding-bottom: 3rem;
+    }
+
+    .content2 {
+        background-image: url('./assets/content2.jpg');
+        background-size: cover;
+        min-height: 25rem;
+        padding-top: 30%;
+        padding-left: 5%;
+        padding-right: 5%;
+        text-align: left;
+        color: #ffffff;
+        margin-bottom: 30px;
+    }
+
+    .card1 {
+        background-image: url('./assets/content1.jpg');
+        background-size: cover;
+        min-height: 10rem;
+        padding-top: 20%;
+        text-align: center;
+        color: #ffffff;
+    }
+    
+    .card2 {
+        background-image: url('./assets/content3-1.jpg');
+        background-size: cover;
+        padding-top: 5%;
+        min-height: 10rem;
+        color: #ffffff;
+        text-align: left;
+    }
+    
+    .card3 {
+        background-image: url('./assets/content4.jpg');
+        background-size: cover;
+        min-height: 10rem;
+    }
+
+    h1, h4 {
+        text-align: center;
+    }
+
+    h3 {
+        padding-top: 0px;
+    }
+
+    .content {
+        color: black;
+        font-family: 'Kanit';
+        text-align: left;
+        background-image: url('./assets/bg.jpg');
+        background-size: cover;
+    }
+}
+
+@media (min-width: 991.98px) {
+    .headcover {
+        background-image: url("./assets/cover2.jpg");
+        min-height: 30rem;
+        height: auto;
+        background-size: cover;
+        border-radius: 0;
+        width: 100%;
+        color: black;
+        font-family: 'Srisakdi', cursive;
+    }
+    
+    .headtext {
+        color: #ffffff;
+        margin-top: 15rem;
+        text-align: center;
+    }
+
+    .content2 {
+        background-image: url('./assets/content2.jpg');
+        background-size: cover;
+        min-height: 30rem;
+        padding-top: 30%;
+        padding-left: 5%;
+        padding-right: 5%;
+        text-align: left;
+        color: #ffffff;
+        margin-bottom: 30px;
+    }
+
+    .card1 {
+        background-image: url('./assets/content1.jpg');
+        background-size: cover;
+        min-height: 25rem;
+        padding-top: 25%;
+        text-align: center;
+        color: #ffffff;
+    }
+    
+    .card2 {
+        background-image: url('./assets/content3.jpg');
+        background-size: cover;
+        padding-top: 25%;
+        min-height: 25rem;
+        color: #ffffff;
+        text-align: left;
+    }
+    
+    .card3 {
+        background-image: url('./assets/content4.jpg');
+        background-size: cover;
+        min-height: 25rem;
+    }
+
+    h3 {
+        padding-top: 0px;
+    }
+
+    h1, h4 {
+        text-align: left;
+    }
+
+    .content {
+        color: black;
+        font-family: 'Kanit';
+        text-align: left;
+        background-image: url('./assets/bg.jpg');
+        background-size: cover;
+    }
+}
+
+.navbar-nav {
+    font-family: 'Kanit';
+}
+
+
+.content {
+    color: black;
+    font-family: 'Kanit';
+    text-align: left;
+}
+
+footer {
+    font-family: 'Kanit';
+    background-color: #fff;
+    text-align: justify;
+}
+
+
